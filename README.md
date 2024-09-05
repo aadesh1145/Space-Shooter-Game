@@ -20,7 +20,7 @@ The teachings in my college was enough to understand basics of the game that wer
 * Most importantly, you need SFML library compatible with your mingW. I recommend using the following SFML version and mingW version in your computer to execute this code and properly enjoy the game: 
    * [SMFL-2.5.1-windows-gcc-7.3.0](https://sourceforge.net/projects/sfml.mirror/files/2.5.1/SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit.zip/download)
    * [mingw-W64-possix-seh-rt-v6-rev0.7z](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)<br>
-(Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so I strongly recommend using this version of SFML and mingW.)
+ (Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so I strongly recommend using this version of SFML and mingW.)
 
 * After this process, you need to download the game repository from my github profile.
 * I recommend downloading this repository in your C:/ drive so that, you don't need to change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the image file used in the code manually. 
