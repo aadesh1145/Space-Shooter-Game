@@ -51,9 +51,11 @@ This code cannot run directly from the run button available in your Visual Studi
 
   * mingw32-make -f MakeFile<br>
 Type the given command and click enter. This will help build the project inside your system. You may see the following message or output in your terminal box. If you don't get the following message or output then you have not properly followed the steps above.<br>
+
 Ouput:<br>
 g++ -Isrc/include -c coding/*.cpp<br>
 g++ *.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32 -lsfml-audio<br>
+
 This will ensure that the sfml library is properly setup in your system and you are eligible to run the code. If you don't get the above result than you may have caused an error in setup or made a mistake.
 
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
