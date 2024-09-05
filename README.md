@@ -74,7 +74,7 @@ This is the first game project developed by me and my team in our coding journey
 
 
 ## Useful Resources
-Some youtube channels that helped me build this project:
+Some youtube channels that helped us build this project:
 * [Vishal Saini](https://www.youtube.com/@vishalsaini3878)
   * [Video1](https://www.youtube.com/watch?v=AMDt1XWa40U)
   * [Video2](https://www.youtube.com/watch?v=EPwv30GWUOY&t=408s)
