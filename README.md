@@ -47,10 +47,15 @@ This code cannot run directly from the run button available in your Visual Studi
 * Open the coding folder and direct toward main.cpp file. (coding>>main.cpp)
 ![image](https://github.com/user-attachments/assets/a5d1cc49-226c-46fa-b887-9b759fac54fd)
 
-* Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands.
+* Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands(Following command are case sensitive so, make sure to use the correct letter while writing the command in your terminal). 
 
   * mingw32-make -f MakeFile<br>
-Type the given command and click enter. You may see the following message or output in your terminal box in the provided image below. If you don't get the following message or output then you have not properly followed the steps above.
+Type the given command and click enter. This will help build the project inside your system. You may see the following message or output in your terminal box. If you don't get the following message or output then you have not properly followed the steps above.<br>
+Ouput:<br>
+g++ -Isrc/include -c coding/*.cpp<br>
+g++ *.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32 -lsfml-audio<br>
+This will ensure that the sfml library is properly setup in your system and you are eligible to run the code. If you don't get the above result than you may have caused an error in setup or made a mistake.
+
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
 
   * ./main<br>
