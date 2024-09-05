@@ -48,7 +48,7 @@ Info: This is a fully functioning code with all images, fonts and music tested i
 
 ## Running the Program
 This code cannot run directly from the run button available in your Visual Studio Code. The following steps should be followed properly to run this program :
-* First open the folder that has all the code, assets, MakeFile file.
+* First open the Space-Shooter-Game-main folder that has all the code, assets, MakeFile file.
 ![image](https://github.com/user-attachments/assets/ced94fa8-5a95-4767-91f7-478aad791d55)
 
 * Open the coding folder and direct toward main.cpp file. (coding>>main.cpp)
