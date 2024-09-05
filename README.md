@@ -35,7 +35,7 @@ Learnings in university were enough to understand basics of the game that were u
 * After this process, you need to download the game repository from my github profile.
 * I recommend downloading this repository directly in your (C:/space-shooter-game) drive without including this folder in any folder of C drive so that, you can easily render all the resources of this game and you don't need to manually change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the resources(sprite, sfx, fonts) used in the code manually. The path that contains my space shooter game is C:\smfl-project. Here sfml-project contains all the folders like coding, src, font, sfx, sprit, MakeFile, all dll files, etc. The main.cpp file is inside the coding(coding>>main.cpp) which is the main file of my project.<br>
 You can follow these steps to correctly download the folder to render all the game resources properly:
-    * After entering inside my Space-Shooter-Game repository, tap on green button that has "code" written in it. Download the zip file. Or you can simply clone the given repository in C (cd /C:/Space-Shooter-Game-main).
+    * After entering inside my Space-Shooter-Game repository, tap on green button that has "code" written in it. Download the zip file. Or you can simply clone the given repository in C (cd C:/Space-Shooter-Game-main).
       drive with following instructions.
      ![image](https://github.com/user-attachments/assets/54b8e3eb-ded9-4ae5-8638-0db0506fa093)
     * After downloading it, direct toward the folder and extract it inside the C drive. 
