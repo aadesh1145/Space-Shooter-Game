@@ -76,15 +76,15 @@ This is the first game project developed by me and my team in our coding journey
 ## Useful Resources
 Some youtube channels that helped me build this project:
 * [Vishal Saini](https://www.youtube.com/@vishalsaini3878)
-  *[Video1](https://www.youtube.com/watch?v=AMDt1XWa40U)
-  *[Video2](https://www.youtube.com/watch?v=EPwv30GWUOY&t=408s)
-  *[Video3](https://www.youtube.com/watch?v=ifK5qDEvYtQ&t=929s)
+  * [Video1](https://www.youtube.com/watch?v=AMDt1XWa40U)
+  * [Video2](https://www.youtube.com/watch?v=EPwv30GWUOY&t=408s)
+  * [Video3](https://www.youtube.com/watch?v=ifK5qDEvYtQ&t=929s)
   
 * [Suraj Sharma](https://www.youtube.com/@SurajSharmaFourKnob)
-  *[Video1](https://www.youtube.com/watch?v=sWYpNIrBr6U)
-  *[Video2](https://www.youtube.com/watch?v=Ax0-srLD9ck)
-  *[Video3](https://www.youtube.com/watch?v=J8VolRonMw0&t=6s)
-  *[Video2](https://www.youtube.com/watch?v=w8sBCquJh0k)
+  * [Video1](https://www.youtube.com/watch?v=sWYpNIrBr6U)
+  * [Video2](https://www.youtube.com/watch?v=Ax0-srLD9ck)
+  * [Video3](https://www.youtube.com/watch?v=J8VolRonMw0&t=6s)
+  * [Video2](https://www.youtube.com/watch?v=w8sBCquJh0k)
 
 Assets used in this game [ivanwidyan](https://github.com/ivanwidyan/spaceshooter-cpp-sfml) and also from many other webisites.
 
