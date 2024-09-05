@@ -35,7 +35,7 @@ The teachings in university was enough to understand basics of the game that wer
  (Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so I strongly recommend using this version of SFML and mingW.)
 
 * After this process, you need to download the game repository from my github profile.
-* I recommend downloading this repository in your C:/ drive without including in any folder of C drive so that, you don't need to change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the image file used in the code manually. 
+* I recommend downloading this repository directly in your C:/ drive without including in any folder of C drive so that, you can easily render all the resources of this game and you don't need to change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the resources(sprite, sfx, fonts) used in the code manually. The path that contains my space shooter game is C:\smfl-project. Here sfml-project contains all the folders like coding, src, font, sfx, sprit, MakeFile, all dll files, etc. The main.cpp file is inside the coding(coding>>main.cpp) which is the main file of my project.
 * After following the steps you are good to go.
 
 Info: This is a fully functioning code with all images, fonts and music tested in my computer. Strictly follow the above process to avoid any mistakes and unwanted error in the program.All the required libraries and assets of this game are found in the folder so, no any external libraries and file need to be imported to run this program in your computer.
