@@ -47,7 +47,7 @@ This code cannot run directly from the run button available in your Visual Studi
 * Open the coding folder and direct toward main.cpp file. (coding>>main.cpp)
 ![image](https://github.com/user-attachments/assets/a5d1cc49-226c-46fa-b887-9b759fac54fd)
 
-* Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code. Terminal will appear. In the terminal type the following commands.
+* Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands.
 
   * mingw32-make -f MakeFile<br>
 Type the given command and click enter. You may see the following message or output in your terminal box in the provided image below. If you don't get the following message or output then you have not properly followed the steps above.
