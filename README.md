@@ -1,7 +1,7 @@
 # SPACE SHOOTER GAME
 
 ## Introduction
-This game is based on the popular 1978 game named **Space Shooter** which we all enjoyed playing in our childhood.The original “Space Shooter” game, often referred to as “Space Invaders,” was released by Taito in 1978. It became one of the most iconic and influential arcade games of its time. This project is developed as a first year project in the project demonstration organized by [ACES](https://www.facebook.com/acesdharan), Dharan. 
+This game is based on the popular 1978 game named **Space Shooter** which we all enjoyed playing in our childhood. The original “Space Shooter” game, often referred to as “Space Invaders,” was released by Taito in 1978. It became one of the most iconic and influential arcade games of its time. This project is developed as a first year project in the project demonstration organized by [ACES](https://www.facebook.com/acesdharan), Dharan. 
 
 ## Team Members
 * **Aadesh Dahal** (Group Representative)
@@ -19,8 +19,6 @@ This game is based on the popular 1978 game named **Space Shooter** which we all
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/6bda6eab-d55b-4de0-8832-04d9d7b7a3d4)
-
-
 
 
 ## Process of Development
