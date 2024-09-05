@@ -52,11 +52,11 @@ This code cannot run directly from the run button available in your Visual Studi
 * Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code. Terminal will appear. In the terminal type the following commands.
 
   * mingw32-make -f MakeFile<br>
-Type the given command above hit enter. You may see the following message or output in your terminal box in the provided image below. If you don't get the following message or output then you have not properly followed the steps above.
+Type the given command above click enter. You may see the following message or output in your terminal box in the provided image below. If you don't get the following message or output then you have not properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
 
   * ./main<br>
-Again type the given command above and hit enter to run the game. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
+Again type the given command above and click enter to run the game. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/d3a8cbad-4cf8-4953-9ad3-403df7981afa)
 
 * Following window may open after you click enter. Now the game is being run on the computer system you can click on play button to play the game or exit to exit the game in your computer.
