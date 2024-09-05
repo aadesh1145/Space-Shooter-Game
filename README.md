@@ -4,16 +4,16 @@
 This game is based on the popular 1978 game named **Space Shooter** which we all enjoyed playing in our childhood. The original “Space Shooter” game, often referred to as “Space Invaders,” was released by Taito in 1978. It became one of the most iconic and influential arcade games of its time. This project is developed as a first year project in the project demonstration organized by [ACES](https://www.facebook.com/acesdharan), Dharan. 
 
 ## Team Members
-* **Aadesh Dahal** (Group Representative)
+* [**Aadesh Dahal**](https://www.facebook.com/profile.php?id=100086562643929) (Group Representative)
    * github: https://github.com/aadesh1145
    * contact: 9801993663
-* **Nishchal Pokhrel**
+* [**Nishchal Pokhrel**](https://www.facebook.com/Nischalp97)
    * github: https://github.com/nischalp97
    * contact: 9842857102
-* **Nandini Karn**
+* [**Nandini Karn**](https://www.facebook.com/karn.nandini)
    * github: https://github.com/Nandini18665
    * contact: 9702293175
-* **Karuna Shrestha**
+* [**Karuna Shrestha**](https://www.facebook.com/karuna.shrestha.104855)
    * github: https://github.com/Karuna-0521
    * contact: 9762984455
 
