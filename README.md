@@ -23,10 +23,10 @@ The teachings in my college was enough to understand basics of the game that wer
  (Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so I strongly recommend using this version of SFML and mingW.)
 
 * After this process, you need to download the game repository from my github profile.
-* I recommend downloading this repository in your C:/ drive so that, you don't need to change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the image file used in the code manually. 
+* I recommend downloading this repository in your C:/ drive without including in any folder of C drive so that, you don't need to change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the image file used in the code manually. 
 * After following the steps you are good to go.
 
-Info: This is a fully functioning code with all images, fonts and music tested in my computer. Strictly follow the above process to avoid any mistakes and unwanted error in the program.
+Info: This is a fully functioning code with all images, fonts and music tested in my computer. Strictly follow the above process to avoid any mistakes and unwanted error in the program.All the required libraries and assets of this game are found in the folder so, no any external libraries and file need to be imported to run this program in your computer.
 
 
 ## Running the program
@@ -39,11 +39,11 @@ This code cannot be run directly from the run button available in your Visual St
 
 * Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code. Terminal will appear. In the terminal type the following commands.
 
-1. mingw32-make -f MakeFile<br>
+  * mingw32-make -f MakeFile<br>
 And hit enter. You may see the following message or output in your terminal box in the provided image below. If you don't get the following message or output then you have not properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
 
-2. ./main<br>
+  * ./main<br>
 Again type the above command and hit enter to run the game. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/d3a8cbad-4cf8-4953-9ad3-403df7981afa)
 
