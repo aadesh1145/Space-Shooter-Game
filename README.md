@@ -84,7 +84,7 @@ Some youtube channels that helped me build this project:
   * [Video1](https://www.youtube.com/watch?v=sWYpNIrBr6U)
   * [Video2](https://www.youtube.com/watch?v=Ax0-srLD9ck)
   * [Video3](https://www.youtube.com/watch?v=J8VolRonMw0&t=6s)
-  * [Video2](https://www.youtube.com/watch?v=w8sBCquJh0k)
+  * [Video4](https://www.youtube.com/watch?v=w8sBCquJh0k)
 
 Assets used in this game [ivanwidyan](https://github.com/ivanwidyan/spaceshooter-cpp-sfml) and also from many other webisites.
 
