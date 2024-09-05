@@ -23,11 +23,11 @@ This game is based on the popular 1978 game named **Space Shooter** which we all
 
 
 
-## Process of development
+## Process of Development
 The teachings in university was enough to understand basics of the game that were used in the game. But I used a library called SFML to build the graphics and setup the controls in the game. To learn more about SFML, initially i watched few youtube videos to easily lay hand on the library. After I got to know more about the library it was a easy process. I took few help from the AI chatbots to debug my errors and bugs in my code. Code is being executed properly but there are some room for improvements in my code.
 
 
-## Requirements and setup 
+## Requirements and Setup 
 * Primarily, you need [Visual Studio Code](https://code.visualstudio.com/Download) to run this program.
 * Most importantly, you need SFML library compatible with your mingW. I recommend using the following SFML version and mingW version in your computer to execute this code without causing any setup errors: 
    * [SMFL-2.5.1-windows-gcc-7.3.0](https://sourceforge.net/projects/sfml.mirror/files/2.5.1/SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit.zip/download)
@@ -41,7 +41,7 @@ The teachings in university was enough to understand basics of the game that wer
 Info: This is a fully functioning code with all images, fonts and music tested in my computer. Strictly follow the above process to avoid any mistakes and unwanted error in the program.All the required libraries and assets of this game are found in the folder so, no any external libraries and file need to be imported to run this program in your computer.
 
 
-## Running the program
+## Running the Program
 This code cannot run directly from the run button available in your Visual Studio Code. The following steps should be followed properly to run this program :
 * First open the folder that has all the code, assets, MakeFile file.
 ![image](https://github.com/user-attachments/assets/ced94fa8-5a95-4767-91f7-478aad791d55)
