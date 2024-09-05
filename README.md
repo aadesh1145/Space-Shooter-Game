@@ -61,7 +61,7 @@ This will ensure that the sfml library is properly setup in your system and you 
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
 
   * ./main<br>
-Again type the given command and click enter to run the game. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
+Again type the given command and click enter to run the game. This command helps you to run the program in your computer. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/d3a8cbad-4cf8-4953-9ad3-403df7981afa)
 
 * Following window may open after you click enter. Now the game is being run on the computer system you can click on play button to play the game or exit to exit the game in your computer.
