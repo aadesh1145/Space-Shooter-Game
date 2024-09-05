@@ -29,7 +29,7 @@ The teachings in university was enough to understand basics of the game that wer
 
 ## Requirements and setup 
 * Primarily, you need [Visual Studio Code](https://code.visualstudio.com/Download) to run this program.
-* Most importantly, you need SFML library compatible with your mingW. I recommend using the following SFML version and mingW version in your computer to execute this code and properly enjoy the game: 
+* Most importantly, you need SFML library compatible with your mingW. I recommend using the following SFML version and mingW version in your computer to execute this code without causing any setup errors: 
    * [SMFL-2.5.1-windows-gcc-7.3.0](https://sourceforge.net/projects/sfml.mirror/files/2.5.1/SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit.zip/download)
    * [mingw-W64-possix-seh-rt-v6-rev0.7z](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)<br>
  (Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so I strongly recommend using this version of SFML and mingW.)
