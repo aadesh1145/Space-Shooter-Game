@@ -49,10 +49,10 @@ Info: This is a fully functioning code with all images, fonts and music tested i
 ## Running the Program
 This code cannot run directly from the run button available in your Visual Studio Code. The following steps should be followed properly to run this program :
 * First open the Space-Shooter-Game-main folder that has all the code, assets, MakeFile file.
-![image](https://github.com/user-attachments/assets/ced94fa8-5a95-4767-91f7-478aad791d55)
+![image](https://github.com/user-attachments/assets/b5b86ab1-dd55-49f6-8bfc-18be7438aba9)
 
 * Open the coding folder and direct toward main.cpp file. (coding>>main.cpp)
-![image](https://github.com/user-attachments/assets/a5d1cc49-226c-46fa-b887-9b759fac54fd)
+![image](https://github.com/user-attachments/assets/0926f1e0-1e65-412b-b752-4bddb912b99d)
 
 * Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands(Following command are case sensitive so, make sure to use the correct letter while writing the command in your terminal). 
 
