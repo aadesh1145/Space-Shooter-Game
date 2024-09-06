@@ -6,22 +6,22 @@ This game is based on the popular game named **Space Shooter** which we all enjo
 ## Team Members
 * [**Aadesh Dahal**](https://www.facebook.com/profile.php?id=100086562643929) (Group Representative)
    * PUR080BEI002
-   * Gmail-080bei002@ioepc.edu.np
+   * Gmail: 080bei002@ioepc.edu.np
    * github: https://github.com/aadesh1145
    * contact: 9801993663
 * [**Nishchal Pokhrel**](https://www.facebook.com/Nischalp97)
    * PUR080BEI027
-   * Gmail-080bei027@ioepc.edu.np
+   * Gmail: 080bei027@ioepc.edu.np
    * github: https://github.com/nischalp97
    * contact: 9842857102
 * [**Nandini Karn**](https://www.facebook.com/karn.nandini)
    * PUR080BEI024
-   * Gmail-080bei024@ioepc.edu.np
+   * Gmail: 080bei024@ioepc.edu.np
    * github: https://github.com/Nandini18665
    * contact: 9702293175
 * [**Karuna Shrestha**](https://www.facebook.com/karuna.shrestha.104855)
    * PUR080BEI019
-   * Gmail-080bei019@ioepc.edu.np
+   * Gmail: 080bei019@ioepc.edu.np
    * github: https://github.com/Karuna-0521
    * contact: 9762984455
 
