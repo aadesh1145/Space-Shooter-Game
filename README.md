@@ -61,19 +61,21 @@ This code cannot run directly from the run button available in your Visual Studi
 * Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands(Following command are case sensitive so, make sure to use the correct letter while writing the command in your terminal). 
 
    * mingw32-make -f MakeFile<br>
-Type the given command and click enter. This will help build the project inside your system. You may see the following message or output in your terminal box. If you don't get the following message or output then you have not properly followed the steps above.<br>
+    Type the given command and click enter. This will help build the project inside your system. You may see the following message or output in your terminal box. If you don't get the 
+    following message or output then you have not properly followed the steps above.<br>
 
-Ouput:<br>
-g++ -Isrc/include -c coding/*.cpp<br>
-g++ *.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32 -lsfml-audio<br>
+    Ouput:<br>
+    g++ -Isrc/include -c coding/*.cpp<br>
+    g++ *.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32 -lsfml-audio<br>
 
-This will ensure that the sfml library is properly setup in your system and you are eligible to run the code. If you don't get the above result than you may have caused an error in setup or made a mistake.
-
-![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
-<br>
+    This will ensure that the sfml library is properly setup in your system and you are eligible to run the code. If you don't get the above result than you may have caused an error in 
+    setup or made a mistake.
+    ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
+  
     * ./main<br>
-Again type the given command and click enter to run the game. This command helps you to run the program in your computer. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
-![image](https://github.com/user-attachments/assets/5a9d2caa-8c8e-47fc-9d3f-053322264281)
+    Again type the given command and click enter to run the game. This command helps you to run the program in your computer. Now you are good to go and the game will be running in your 
+    computer if you have properly followed the steps above.
+    ![image](https://github.com/user-attachments/assets/5a9d2caa-8c8e-47fc-9d3f-053322264281)
 
 * Following window may open after you click enter. Now the game is being run on the computer system you can click on play button to play the game or exit to exit the game in your computer.
 ![image](https://github.com/user-attachments/assets/cfe8ba14-5860-4d0e-889e-2436f05973d3)
