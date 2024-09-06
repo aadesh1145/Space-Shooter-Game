@@ -115,3 +115,5 @@ Assets used in this game [ivanwidyan](https://github.com/ivanwidyan/spaceshooter
 * Aadesh Dahal
 * Facebook - [Aad Esh](https://www.facebook.com/profile.php?id=100086562643929)
 * Github - [aadesh1145](https://github.com/aadesh1145)
+* Personal gmail - dahalaadesh12345@gmail.com
+* Academic gmail - 080bei002@ioepc.edu.np
