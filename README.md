@@ -33,10 +33,10 @@ Learnings in university were enough to understand basics of the game that were u
  (Caution:Use of other versions of mingW and SFML may cause unwanted errors and problems in the code so, I strongly recommend using this version of SFML and mingW.)
 
 * After this process, you need to download the game repository from my github profile.
-* I recommend downloading this repository directly in your (C:/space-shooter-game-main) drive without including this folder in any folder of C drive so that, you can easily render all the resources of this game and you don't need to manually change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the resources(sprite, sfx, fonts) used in the code manually. The path that contains my space shooter game is C:\smfl-project. Here sfml-project contains all the folders like coding, src, font, sfx, sprit, MakeFile, all dll files, etc. The main.cpp file is inside the coding(coding>>main.cpp) which is the main file of my project.<br>
+* I recommend downloading this repository directly in your (C:/space-shooter-game-main) drive without including this folder in any folder of C drive so that, you can easily render all the resources of this game and you don't need to manually change the path of the assets(images/sprite, fonts and sfx) that were used in the development otherwise you need to change the path of the resources(sprite, sfx, fonts) used in the code manually.<br>
 You can follow these steps to correctly download the folder to render all the game resources properly:
     * After entering inside my [Space-Shooter-Game](https://github.com/aadesh1145/Space-Shooter-Game) repository.
-    * Tap on green button that has "code" written in it. You can simply clone the given repository in C (cd C:/Space-Shooter-Game-main) and git clone. If you cloned it then you don't need to follow the steps below. The steps below are the steps if you want to download the zip file of my repository.
+    * Tap on green button that has "code" written in it. You can simply clone the given repository in C (cd C:/) and git clone. If you cloned it then you don't need to follow the steps below. The steps below are the steps if you want to download the zip file of my repository.
     * Tap on green button that has "code" written in it. Download the zip file. 
      ![image](https://github.com/user-attachments/assets/54b8e3eb-ded9-4ae5-8638-0db0506fa093)
     * After downloading it, direct toward the folder and extract it inside the C drive. 
@@ -56,7 +56,7 @@ This code cannot run directly from the run button available in your Visual Studi
 
 * Now, open the terminal of your VS Code. Or simply hold CTRL+Shift+~ or CTRL+Shift+` in the code to open the terminal. Terminal will appear. In the terminal type the following commands(Following command are case sensitive so, make sure to use the correct letter while writing the command in your terminal). 
 
-  * mingw32-make -f MakeFile<br>
+   * mingw32-make -f MakeFile<br>
 Type the given command and click enter. This will help build the project inside your system. You may see the following message or output in your terminal box. If you don't get the following message or output then you have not properly followed the steps above.<br>
 
 Ouput:<br>
@@ -67,7 +67,7 @@ This will ensure that the sfml library is properly setup in your system and you 
 
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
 
-  * ./main<br>
+   * ./main<br>
 Again type the given command and click enter to run the game. This command helps you to run the program in your computer. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/5a9d2caa-8c8e-47fc-9d3f-053322264281)
 
