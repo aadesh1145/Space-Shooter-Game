@@ -1,19 +1,23 @@
 # SPACE SHOOTER GAME
 
 ## Introduction
-This game is based on the popular 1978 game named **Space Shooter** which we all enjoyed playing in our childhood. The original “Space Shooter” game, often referred to as “Space Invaders,” was released by Taito in 1978. It became one of the most iconic and influential arcade games of its time. This project is developed as a first year project in the project demonstration organized by [ACES](https://www.facebook.com/acesdharan), Dharan. 
+This game is based on the popular 1978 game named **Space Shooter** which we all enjoyed playing in our childhood. The original “Space Shooter” game, often referred to as “Space Invaders,” was released by Taito in 1978. It became one of the most iconic and influential arcade games of its time. This project is developed by BEICE students as a first year project in the project demonstration organized by [ACES](https://www.facebook.com/acesdharan), Dharan. 
 
 ## Team Members
 * [**Aadesh Dahal**](https://www.facebook.com/profile.php?id=100086562643929) (Group Representative)
+   * PUR080BEI002
    * github: https://github.com/aadesh1145
    * contact: 9801993663
 * [**Nishchal Pokhrel**](https://www.facebook.com/Nischalp97)
+   * PUR080BEI027
    * github: https://github.com/nischalp97
    * contact: 9842857102
 * [**Nandini Karn**](https://www.facebook.com/karn.nandini)
+   * PUR080BEI024
    * github: https://github.com/Nandini18665
    * contact: 9702293175
 * [**Karuna Shrestha**](https://www.facebook.com/karuna.shrestha.104855)
+   * PUR080BEI019
    * github: https://github.com/Karuna-0521
    * contact: 9762984455
 
@@ -66,8 +70,8 @@ g++ *.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32
 This will ensure that the sfml library is properly setup in your system and you are eligible to run the code. If you don't get the above result than you may have caused an error in setup or made a mistake.
 
 ![image](https://github.com/user-attachments/assets/5c9a2b9b-bcbf-47ae-a806-eabab0c8e773)
-
-   * ./main<br>
+<br>
+    * ./main<br>
 Again type the given command and click enter to run the game. This command helps you to run the program in your computer. Now you are good to go and the game will be running in your computer if you have properly followed the steps above.
 ![image](https://github.com/user-attachments/assets/5a9d2caa-8c8e-47fc-9d3f-053322264281)
 
